@@ -1,0 +1,14 @@
+C:\Users\Leo\Documents\csharp\TCPIP_Chat\TCPIP_Server\bin\Debug\net8.0\TCPIP_Server.exe
+C:\Users\Leo\Documents\csharp\TCPIP_Chat\TCPIP_Server\bin\Debug\net8.0\TCPIP_Server.deps.json
+C:\Users\Leo\Documents\csharp\TCPIP_Chat\TCPIP_Server\bin\Debug\net8.0\TCPIP_Server.runtimeconfig.json
+C:\Users\Leo\Documents\csharp\TCPIP_Chat\TCPIP_Server\bin\Debug\net8.0\TCPIP_Server.dll
+C:\Users\Leo\Documents\csharp\TCPIP_Chat\TCPIP_Server\bin\Debug\net8.0\TCPIP_Server.pdb
+C:\Users\Leo\Documents\csharp\TCPIP_Chat\TCPIP_Server\obj\Debug\net8.0\TCPIP_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Documents\csharp\TCPIP_Chat\TCPIP_Server\obj\Debug\net8.0\TCPIP_Server.AssemblyInfoInputs.cache
+C:\Users\Leo\Documents\csharp\TCPIP_Chat\TCPIP_Server\obj\Debug\net8.0\TCPIP_Server.AssemblyInfo.cs
+C:\Users\Leo\Documents\csharp\TCPIP_Chat\TCPIP_Server\obj\Debug\net8.0\TCPIP_Server.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Documents\csharp\TCPIP_Chat\TCPIP_Server\obj\Debug\net8.0\TCPIP_Server.dll
+C:\Users\Leo\Documents\csharp\TCPIP_Chat\TCPIP_Server\obj\Debug\net8.0\refint\TCPIP_Server.dll
+C:\Users\Leo\Documents\csharp\TCPIP_Chat\TCPIP_Server\obj\Debug\net8.0\TCPIP_Server.pdb
+C:\Users\Leo\Documents\csharp\TCPIP_Chat\TCPIP_Server\obj\Debug\net8.0\TCPIP_Server.genruntimeconfig.cache
+C:\Users\Leo\Documents\csharp\TCPIP_Chat\TCPIP_Server\obj\Debug\net8.0\ref\TCPIP_Server.dll
